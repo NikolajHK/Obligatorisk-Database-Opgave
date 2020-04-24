@@ -1,0 +1,9 @@
+C:\Users\Salah\source\repos\Obligatorisk database opgave\DBContext\bin\Debug\DBContext.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\DBContext\bin\Debug\DBContext.pdb
+C:\Users\Salah\source\repos\Obligatorisk database opgave\DBContext\bin\Debug\ModelKlasser.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\DBContext\bin\Debug\ModelKlasser.pdb
+C:\Users\Salah\source\repos\Obligatorisk database opgave\DBContext\obj\Debug\DBContext.csprojAssemblyReference.cache
+C:\Users\Salah\source\repos\Obligatorisk database opgave\DBContext\obj\Debug\DBContext.csproj.CoreCompileInputs.cache
+C:\Users\Salah\source\repos\Obligatorisk database opgave\DBContext\obj\Debug\DBContext.csproj.CopyComplete
+C:\Users\Salah\source\repos\Obligatorisk database opgave\DBContext\obj\Debug\DBContext.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\DBContext\obj\Debug\DBContext.pdb

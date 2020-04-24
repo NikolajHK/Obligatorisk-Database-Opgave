@@ -1,0 +1,6 @@
+@using Obligatorisk_database_opgave.Areas.HelpPage.ModelDescriptions
+@model CollectionModelDescription
+@if (Model.ElementDescription is ComplexTypeModelDescription)
+{
+    @Html.DisplayFor(m => m.ElementDescription)
+}

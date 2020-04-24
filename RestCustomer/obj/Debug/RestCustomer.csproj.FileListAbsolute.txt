@@ -1,0 +1,38 @@
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\RestCustomer.exe.config
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\RestCustomer.exe
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\RestCustomer.pdb
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\obj\Debug\RestCustomer.csprojAssemblyReference.cache
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\obj\Debug\RestCustomer.csproj.CoreCompileInputs.cache
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\obj\Debug\RestCustomer.csproj.CopyComplete
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\obj\Debug\RestCustomer.exe
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\obj\Debug\RestCustomer.pdb
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\ModelKlasser.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\Obligatorisk database opgave.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.Optimization.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.Mvc.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.Http.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\DBContext.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.WebPages.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.Razor.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\ModelKlasser.pdb
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\Obligatorisk database opgave.pdb
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\Obligatorisk database opgave.dll.config
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.Optimization.xml
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.Mvc.xml
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.Http.xml
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\DBContext.pdb
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.WebPages.xml
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.Razor.xml
+C:\Users\Salah\source\repos\Obligatorisk database opgave\RestCustomer\bin\Debug\System.Web.WebPages.Deployment.xml

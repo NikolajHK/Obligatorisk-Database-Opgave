@@ -1,0 +1,9 @@
+C:\Users\Salah\source\repos\Obligatorisk database opgave\ModelKlasser\bin\Debug\netstandard2.0\ModelKlasser.deps.json
+C:\Users\Salah\source\repos\Obligatorisk database opgave\ModelKlasser\bin\Debug\netstandard2.0\ModelKlasser.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\ModelKlasser\bin\Debug\netstandard2.0\ModelKlasser.pdb
+C:\Users\Salah\source\repos\Obligatorisk database opgave\ModelKlasser\obj\Debug\netstandard2.0\ModelKlasser.csprojAssemblyReference.cache
+C:\Users\Salah\source\repos\Obligatorisk database opgave\ModelKlasser\obj\Debug\netstandard2.0\ModelKlasser.csproj.CoreCompileInputs.cache
+C:\Users\Salah\source\repos\Obligatorisk database opgave\ModelKlasser\obj\Debug\netstandard2.0\ModelKlasser.AssemblyInfoInputs.cache
+C:\Users\Salah\source\repos\Obligatorisk database opgave\ModelKlasser\obj\Debug\netstandard2.0\ModelKlasser.AssemblyInfo.cs
+C:\Users\Salah\source\repos\Obligatorisk database opgave\ModelKlasser\obj\Debug\netstandard2.0\ModelKlasser.dll
+C:\Users\Salah\source\repos\Obligatorisk database opgave\ModelKlasser\obj\Debug\netstandard2.0\ModelKlasser.pdb
